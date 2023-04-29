@@ -1,0 +1,4 @@
+.hover:hover ~ div{
+    display: block;
+}
+
